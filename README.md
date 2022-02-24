@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
@@ -26,7 +25,5 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-=======
 # nextjs-opensea-clone-Thurs22
 Creating Opensea clone app with Next js, Sanity DB, etc.
->>>>>>> af8df80d68aa4079f7792ed8a072583e7f63f42c
