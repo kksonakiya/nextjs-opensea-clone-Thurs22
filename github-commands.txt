@@ -3,3 +3,8 @@ git remote show origin
 git remote add origin 'url'
 git commit -m "msg"
 git push origin main
+
+Tips: 
+
+for error: fatal: refusing to merge unrelated histories
+git pull --allow-unrelated-histories
